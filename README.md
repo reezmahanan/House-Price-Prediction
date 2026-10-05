@@ -13,6 +13,29 @@ A machine learning project built in **Google Colab** to predict residential prop
 
 ---
 
+## 📂 Dataset Source & Acknowledgements
+
+The dataset used in this project is sourced from **Kaggle**:
+- **Dataset**: [Housing Prices Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
+- **Source Platform**: [Kaggle](https://www.kaggle.com/)
+- **Total Records**: 545 entries with 13 features
+- **Attributes Included**:
+  - `price`: Target property price (continuous integer)
+  - `area`: Total surface area of the property (in sq ft)
+  - `bedrooms`: Number of bedrooms
+  - `bathrooms`: Number of bathrooms
+  - `stories`: Number of property floors/levels
+  - `mainroad`: Connected to main road (`yes`/`no`)
+  - `guestroom`: Availability of guest room (`yes`/`no`)
+  - `basement`: Availability of basement (`yes`/`no`)
+  - `hotwaterheating`: Hot water heating system (`yes`/`no`)
+  - `airconditioning`: Central air conditioning (`yes`/`no`)
+  - `parking`: Number of dedicated vehicle parking spots
+  - `prefarea`: Located in city's preferred residential area (`yes`/`no`)
+  - `furnishingstatus`: Furnishing condition (`furnished`, `semi-furnished`, `unfurnished`)
+
+---
+
 ## 📁 Repository Structure
 
 ```
